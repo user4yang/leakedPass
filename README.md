@@ -11,7 +11,7 @@ This project does X, Y, and Z.
 1. apt update
 2. apt upgrade  
 3. pkg install git
-4. git clone https://github.com/user4yang/iNeedYourIG.git
+4. git clone https://github.com/user4yang/leakedPass.git
 5. cd iNeedYourIG
 6. chmod +x script.sh
 7. ./script.sh
